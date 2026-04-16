@@ -104,7 +104,7 @@ SUBROUTINE add_pebble(Va, Vb, pos)
 
 end subroutine add_pebble
 
-!! Remove one cluster entry and check whether `Va` is still in `root`.
+!! Remove one cluster entry and check whether `Va` is in `root`.
 SUBROUTINE check_inclus(Va, index, root, isin)
     implicit none
     integer :: Va, root, isin, index
