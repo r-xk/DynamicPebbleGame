@@ -1,0 +1,17 @@
+*
+!.gitignore
+!main.f90
+!Basi/
+!Basi/**
+!Init/
+!Init/**
+!Meas/
+!Meas/**
+!RNG/
+!RNG/**
+!Simu/
+!Simu/**
+
+# Exclude generated and OS-specific files inside included directories.
+*.mod
+.DS_Store
