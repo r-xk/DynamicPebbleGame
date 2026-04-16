@@ -45,7 +45,7 @@ SUBROUTINE swendsen_wang_topology
     num = 1
 
     do x = 1, int(Bnum * pb) + 1
-        pos = rn() * (Bnum - x + 1) + x
+        pos = rn() * (Bnum - x + 1) + x     ! Site index starts from 1
         temp = Bseq(x)
         Bseq(x) = Bseq(pos)
         Bseq(pos) = temp

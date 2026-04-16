@@ -69,15 +69,15 @@ subroutine  find_rigid_site_Va_Vb(Va, Vb, Eab, site_label, finded_num, finded_cl
                     k2 = k1 + V2V(dire, tk)
                     if(value_site(k1) == site_label+2 .or. value_site(k2) == site_label+2)    cycle
                     if(value_site(k1) < site_label)    then
-                        nchanged_path = 0
-                        nvisited = 0
+                        nchanged_path = 0		!!!record the site whose path changed in depth_first_search_2
+                        nvisited = 0			!!!record the site whose visited changed in depth_first_search_2
                         call depth_first_search_2(k1, 1, have_found_1, site_label_f)
                         call label_sites(k1, have_found_1, site_label)
                         if(have_found_1 == 1)   cycle
                     endif
                     if(value_site(k2) < site_label)    then
-                        nchanged_path = 0
-                        nvisited = 0
+                        nchanged_path = 0		!!!record the site whose path changed in depth_first_search_2
+                        nvisited = 0			!!!record the site whose visited changed in depth_first_search_2
                         call depth_first_search_2(k2, 1, have_found_1, site_label_f)
                         call label_sites(k2, have_found_1, site_label)
                         if(have_found_1 == 1)   cycle

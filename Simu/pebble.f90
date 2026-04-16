@@ -142,7 +142,8 @@ subroutine find_index(index_wv, V, V_next)
     elseif(digraph(V, 1) == V_next) then
         index_wv = 1
     else
-        error stop "find_index: invalid digraph edge"
+        print *, "index error", V, V_next
+        stop
     endif
 
 end subroutine find_index
