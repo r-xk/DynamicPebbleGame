@@ -47,8 +47,4 @@ The algorithmic background and implementation details are described in:
 
 Author: Mingzhong Lu.
 
-If you encounter any problems in the code or have questions about the implementation, please feel free to contact the authors.
-
-If you use this code in your research, please cite:
-
-Mingzhong Lu, Yufeng Song, Qiyuan Shi, Ming Li, and Youjin Deng, *High-precision Dynamic Monte Carlo Study of Rigidity Percolation*, arXiv:2601.21399.
+If you encounter any problems in the code or have questions about the implementation, please feel free to contact the authors. If you use this code in your research, please cite: Mingzhong Lu, Yufeng Song, Qiyuan Shi, Ming Li, and Youjin Deng, *High-precision Dynamic Monte Carlo Study of Rigidity Percolation*, arXiv:2601.21399.
