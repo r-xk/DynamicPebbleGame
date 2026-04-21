@@ -1,6 +1,8 @@
 *
 !.gitignore
 !README.md
+!.zenodo.json
+!CITATION.cff
 !main.f90
 !Basi/
 !Basi/**

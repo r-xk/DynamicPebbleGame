@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and the article below."
+title: "Dynamic Pebble Game Algorithm for Rigidity Percolation on the Triangular Lattice"
+type: software
+authors:
+  - family-names: "Lu"
+    given-names: "Mingzhong"
+version: "1.0.0"
+date-released: 2026-04-21
+repository-code: "https://github.com/r-xk/DynamicPebbleGame"
+url: "https://github.com/r-xk/DynamicPebbleGame"
+preferred-citation:
+  type: article
+  title: "High-precision Dynamic Monte Carlo Study of Rigidity Percolation"
+  authors:
+    - family-names: "Lu"
+      given-names: "Mingzhong"
+    - family-names: "Song"
+      given-names: "Yufeng"
+    - family-names: "Shi"
+      given-names: "Qiyuan"
+    - family-names: "Li"
+      given-names: "Ming"
+    - family-names: "Deng"
+      given-names: "Youjin"
+  journal: "arXiv"
+  year: 2026
+  url: "https://arxiv.org/pdf/2601.21399"

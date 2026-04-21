@@ -1,0 +1,25 @@
+{
+  "title": "Dynamic Pebble Game Algorithm for Rigidity Percolation on the Triangular Lattice",
+  "description": "Fortran implementation of the dynamic pebble game algorithm for rigidity percolation on the triangular lattice.",
+  "creators": [
+    {
+      "name": "Lu, Mingzhong"
+    }
+  ],
+  "keywords": [
+    "rigidity percolation",
+    "dynamic pebble game",
+    "triangular lattice",
+    "Fortran",
+    "Monte Carlo"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://arxiv.org/pdf/2601.21399",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}
