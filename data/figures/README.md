@@ -2,8 +2,7 @@
 
 This directory is organized in the same order as the figures appear in the manuscript.
 Each `FigXX` directory contains the plotting script and a
-`raw_data/` directory with the data files used by that script. Paths in the copied
-plotting scripts have been rewritten to read from the local `raw_data/` directory.
+`raw_data/` directory with the data files used by that script.
 Schematic-only figures are not included because they do not require data files.
 If you use these data or scripts, please cite the associated article:
 <https://doi.org/10.1103/cbxz-hws6>.
