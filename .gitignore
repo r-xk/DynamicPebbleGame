@@ -3,6 +3,8 @@
 !README.md
 !.zenodo.json
 !CITATION.cff
+!data/
+!data/**
 !main.f90
 !Basi/
 !Basi/**

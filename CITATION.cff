@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: "Lu"
     given-names: "Mingzhong"
-version: "1.0.0"
-date-released: 2026-04-21
+version: "1.1.0"
+date-released: 2026-05-30
 repository-code: "https://github.com/r-xk/DynamicPebbleGame"
 url: "https://github.com/r-xk/DynamicPebbleGame"
 preferred-citation:
@@ -23,6 +23,6 @@ preferred-citation:
       given-names: "Ming"
     - family-names: "Deng"
       given-names: "Youjin"
-  journal: "arXiv"
+  doi: "10.1103/cbxz-hws6"
   year: 2026
-  url: "https://arxiv.org/pdf/2601.21399"
+  url: "https://doi.org/10.1103/cbxz-hws6"
