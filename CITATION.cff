@@ -11,7 +11,7 @@ repository-code: "https://github.com/r-xk/DynamicPebbleGame"
 url: "https://github.com/r-xk/DynamicPebbleGame"
 preferred-citation:
   type: article
-  title: "Dynamic Monte Carlo Study of Rigidity Percolation"
+  title: "Dynamic Monte Carlo Study of Rigidity Percolation using an Event-Based Ensemble Approach"
   authors:
     - family-names: "Lu"
       given-names: "Mingzhong"

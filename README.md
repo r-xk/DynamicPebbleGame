@@ -53,10 +53,10 @@ See [`data/figures/README.md`](./data/figures/README.md) for the mapping between
 
 The algorithmic background and implementation details are described in:
 
-- Mingzhong Lu, Yufeng Song, Qiyuan Shi, Ming Li, and Youjin Deng, *Dynamic Monte Carlo Study of Rigidity Percolation*, <https://doi.org/10.1103/cbxz-hws6>
+- Mingzhong Lu, Yufeng Song, Qiyuan Shi, Ming Li, and Youjin Deng, *Dynamic Monte Carlo Study of Rigidity Percolation using an Event-Based Ensemble Approach*, <https://doi.org/10.1103/cbxz-hws6>
 
 ## License
 
 Author: Mingzhong Lu.
 
-If you encounter any problems in the code or have questions about the implementation, please feel free to contact the authors. If you use this code or the figure data in your research, please cite: Mingzhong Lu, Yufeng Song, Qiyuan Shi, Ming Li, and Youjin Deng, *Dynamic Monte Carlo Study of Rigidity Percolation*, <https://doi.org/10.1103/cbxz-hws6>.
+If you encounter any problems in the code or have questions about the implementation, please feel free to contact the authors. If you use this code or the figure data in your research, please cite: Mingzhong Lu, Yufeng Song, Qiyuan Shi, Ming Li, and Youjin Deng, *Dynamic Monte Carlo Study of Rigidity Percolation using an Event-Based Ensemble Approach*, <https://doi.org/10.1103/cbxz-hws6>.
